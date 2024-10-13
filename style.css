@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mainContainer {
+  padding: 20px;
+}
+
+.header {
+  font-size: 30px;
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+}
+
+.element {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.img {
+  width: 305px;
+  height: 168px;
+}
+
+.p {
+  font-size: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
